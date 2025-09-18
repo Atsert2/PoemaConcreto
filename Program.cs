@@ -1,0 +1,27 @@
+﻿// See https://aka.ms/new-console-template for more information
+Console.ForegroundColor = ConsoleColor.Black;
+Console.BackgroundColor = ConsoleColor.White;
+Console.WriteLine("   um");
+Console.WriteLine("    movi");
+Console.WriteLine("    mento");
+Console.WriteLine("  compondo");
+Console.WriteLine(" alem\n");
+Console.WriteLine("        da");
+Console.WriteLine("\nnuvem");
+Console.WriteLine("    um");
+Console.WriteLine("   campo");
+Console.WriteLine("      de");
+Console.WriteLine("   combate\n");
+Console.WriteLine("     mira");
+Console.WriteLine("   gem");
+Console.WriteLine("      ira");
+Console.WriteLine("         de");
+Console.WriteLine("    um");
+Console.WriteLine("      horizonte");
+Console.WriteLine("puro");
+Console.WriteLine("   num");
+Console.WriteLine("     mo");
+Console.WriteLine("     mento");
+Console.WriteLine(" vivo");
+Console.ResetColor();
+Console.WriteLine(" ");
